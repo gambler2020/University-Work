@@ -1,3 +1,4 @@
+Top rated movies by imdb
 @This list of top 250 movie data which is top rated movies by IMDb users
 is scrapped from IMDb website using "scraper" google chrome extention.
 There are 4 columns ("Ranking", "Movie Title", "Year" and "IMDb rating")
